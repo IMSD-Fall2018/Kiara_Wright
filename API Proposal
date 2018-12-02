@@ -1,0 +1,18 @@
+Kiara Wright
+Proposal for final Unity project
+Idea #1 
+Anime character Bio API
+I want to make an API that can tell the Bio’s different anime characters. 
+On Unity the console it print out the characters name and information about them.
+In the scene it I want to display how the character looks like. 
+If anyone one is wondering who the character is and what they look like the
+console and scene can show them. looking for an API to use is still a challenge. 
+But getting started with the Code is what I can do. I do not think I am using real time. 
+
+Cat API
+Idea #2 
+Almost similar to the anime character bio API idea. 
+But with this one it will show images of cats. The scene will show 
+the images and the console will say where it is from. https://thecatapi.com 
+is where I can get the API. I know how to get the API. 
+I am still not sure on how to do the code for this API. 
